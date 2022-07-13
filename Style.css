@@ -1,0 +1,39 @@
+h1{
+	color:red;
+}
+.container{
+	border:solid 10px green;
+	width: 700px;
+	height: 500px;
+	text-align: center;
+	padding: 10px;
+	border-radius: 8px;
+}
+.listado{
+	color: coral;
+	text-align: left;
+}
+/*textarea{
+	background-color: white;
+	width: 500px;
+	height: 250px;
+	padding: 10px;
+	border-radius: 10px;
+
+}*/
+.acciones{
+	margin:8px;
+}
+#result{
+	
+	border-radius: 10px;
+	border: 10px solid red;
+	font-size: 80px;
+	
+}
+#btn_sortear{
+	margin:7px;
+	
+	width: 100px;
+
+}
